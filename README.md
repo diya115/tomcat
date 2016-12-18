@@ -1,2 +1,2 @@
 # Test project #
-hello
+hello test
